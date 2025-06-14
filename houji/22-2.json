@@ -1,1 +1,12 @@
-create json file for OTA
+{
+	"response": [
+		{
+			"filename": "Project_Infinity-X-2.9-houji-20250613-1815-GAPPS-UNOFFICIAL.zip",
+			"download": "https://35s5dv-my.sharepoint.com/personal/nissivardhan_35s5dv_onmicrosoft_com/_layouts/15/download.aspx?share=EbkM5LUXSFZHrAGlQn_vAEsBFjJ1L2oXJKwt14KEWxJ0Gw",
+			"timestamp": 1749838301,
+			"md5": "c759ece810b4b3b65f3676bdc7acd7ee",
+			"size": 4054181363,
+			"version": "2.9"
+		}
+	]
+}
